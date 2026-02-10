@@ -183,6 +183,7 @@ public class Main {
         {
             int number = a * k;
             System.out.println("2 * " + k + " = " + number);
+
         }
     }
 }
